@@ -1,8 +1,8 @@
-import CounterContainer from '../src/containers/CounterContainer'
+import SampleContainer from './containers/SampleContainer';
 function App() {
   return (
    <div>
-     <CounterContainer/>
+    <SampleContainer/>
    </div>
   );
 }
